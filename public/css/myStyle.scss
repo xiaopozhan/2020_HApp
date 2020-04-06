@@ -1,0 +1,9 @@
+// 颜色类
+$oc:rgb(0, 68, 255);  //高光的颜色
+$mc:#ccc; //普通时候的颜色
+.img{
+    width: 100%;
+    height: 100%;
+    border-radius:15px;
+    border: 1px solid $mc;
+}

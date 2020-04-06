@@ -1,0 +1,160 @@
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* 外边距 */
+.ml1r{
+    margin-left:1rem ;
+}
+.mb1r{
+    margin-bottom: 1rem;
+}
+.mt1r{
+    margin-top: 1rem;
+}
+.mr1r{
+    margin-right: 1rem;
+}
+.mlr1{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.mtb1{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.ml2r{
+    margin-left:2rem ;
+}
+.mb2r{
+    margin-bottom: 2rem;
+}
+.mt2r{
+    margin-top: 2rem;
+}
+.mr2r{
+    margin-right: 2rem;
+}
+.mlr2{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.mtb2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.ml3r{
+    margin-left:3rem ;
+}
+.mb3r{
+    margin-bottom: 3rem;
+}
+.mt3r{
+    margin-top: 3rem;
+}
+.mr3r{
+    margin-right: 3rem;
+}
+.mlr3{
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+.mtb3{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+
+/* 内边距 */
+.pt05{
+    padding-top: 0.5rem;
+}
+.pl1r{
+    padding-left: 1rem;
+}
+.pr1r{
+    padding-right: 1rem;
+}
+.pt1r{
+    padding-top: 1rem;
+}
+.pb1r{
+    padding-bottom: 1rem;
+}
+.plr1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.ptb1{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.pl2r{
+    padding-left: 2rem;
+}
+.pr2r{
+    padding-right: 2rem;
+}
+.pt2r{
+    padding-top: 2rem;
+}
+.pb2r{
+    padding-bottom: 2rem;
+}
+.plr2{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.ptb2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+.pl3r{
+    padding-left: 3rem;
+}
+.pr3r{
+    padding-right: 3rem;
+}
+.pt3r{
+    padding-top: 3rem;
+}
+.pb3r{
+    padding-bottom: 3rem;
+}
+.plr3{
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+.ptb3{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+
+.Tleft{
+    text-align: left;
+}
+.Tright{
+    text-align: right;
+}
+
+
+/* 边框 */
+.bb1{
+    border-bottom: 1px solid #e2e3e4;
+}
+.bb2{
+    border-bottom: 2px solid #e2e3e4;
+}
+.bb3{
+    border-bottom: 3px solid #e2e3e4;
+}
+
+/* 字体颜色 */
+.a_blue>a{
+   color: #409EFF;
+}
